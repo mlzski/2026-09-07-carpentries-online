@@ -12,7 +12,7 @@ humantime: "9:00 am - 5 pm UTC +2"    # human-readable times for the workshop e.
 startdate: 2026-09-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-09-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Khaoula Ferchichi", "Michal Zulcinski"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBC", "TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Sruthin Gaddam", "TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kferchichi@uni-bonn.de","m.zulcinski@leeds.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 # Optional variables
 collaborative_notes:  https://pad.carpentries.org/2026-09-07-carpentries-online
